@@ -1,6 +1,6 @@
 # playon_to_edl
-Convert playlater mp4 file to add an edl file for Kodi to skip commercials
+Utility to use playlater mp4 file to add an edl file for Kodi to skip commercials.
 
-Despite playon's claims of supporting Kodi for adskip, they didn't and don't.
+This project uses ffmpeg and python to create an EDL file so that kodi can skip ads.
 
-This project is to use ffmpeg and python to create an EDL file so that kodi can skip ads.
+Please be sure that you have ffmpeg and python 3 installed.
